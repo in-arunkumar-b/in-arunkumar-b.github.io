@@ -1,3 +1,8 @@
 title: Arunkumar
-description: Under construction...
 theme: minima
+
+header_pages:
+  - about.md
+  - bookmarks/index.md
+  - demo/animals.html
+  - demo/tech.html
