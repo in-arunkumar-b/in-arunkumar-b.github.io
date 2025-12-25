@@ -77,7 +77,7 @@ layout: bookmarks
 
 ### Tech - CharacterEncoding
 - <a href="http://kunststube.net/encoding/">What Every Programmer Absolutely, Positively Needs to Know About Encodings and Character Sets to Work With Text</a>
-- <a href="https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/">The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) – Joel on Software</a>
+- <a href="https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/">The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) â€“ Joel on Software</a>
 - <a href="https://www.cprogramming.com/tutorial/unicode.html">Unicode in C and C++ - Cprogramming.com</a>
 - <a href="https://www.w3.org/International/getting-started/characters">Introducing Character Sets and Encodings</a>
 
