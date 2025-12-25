@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: About
+  link: /about
+- name: Bookmarks
+  link: /bookmarks
+- name: Demo - Animals
+  link: /demo/animals
+- name: Demo - Tech
+  link: /demo/tech
+#- name: arunkumar.ind.in
+#  link: http://arunkumar.ind.in
+#- name: www.arunkumar.ind.in
+#  link: http://www.arunkumar.ind.in
