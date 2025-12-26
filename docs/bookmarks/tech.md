@@ -1,3 +1,6 @@
+---
+title: Bookmarks - Tech
+---
 
 <link rel="stylesheet" href="https://arunkumar.ind.in/assets/css/bookmark.css" />
 

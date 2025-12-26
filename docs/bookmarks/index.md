@@ -1,3 +1,7 @@
+---
+title: Bookmarks
+---
+
 ### GitHub supported themes
 - [https://github.com/jekyll/minima](https://github.com/jekyll/minima)
   - [https://jekyll.github.io/minima](https://jekyll.github.io/minima)
@@ -16,7 +20,7 @@
 - [https://github.com/pages-themes/midnight](https://github.com/pages-themes/midnight)
   - [https://pages-themes.github.io/midnight](https://pages-themes.github.io/midnight)
 - [https://github.com/pages-themes/minimal](https://github.com/pages-themes/minimal)
-  - [https://pages-themes.github.io/minimal]([https://pages-themes.github.io/minimal)
+  - [https://pages-themes.github.io/minimal](https://pages-themes.github.io/minimal)
 - [https://github.com/pages-themes/modernist](https://github.com/pages-themes/modernist)
   - [https://pages-themes.github.io/modernist](https://pages-themes.github.io/modernist)
 - [https://github.com/pages-themes/slate](https://github.com/pages-themes/slate)
