@@ -1,8 +1,3 @@
----
-layout: base
-title: About
----
-
 ## About Me
 Experienced IT professional with a proven track record in system migrations, SharePoint development, and enterprise application architecture.
 Skilled in leading teams, delivering high-quality solutions, and driving process improvements with a strong focus on Microsoft technologies and cloud services.
