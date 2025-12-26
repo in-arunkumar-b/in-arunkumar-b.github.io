@@ -1,10 +1,7 @@
 ---
+layout: bookmarks
 title: Bookmarks - Tech
 ---
-
-<link rel="stylesheet" href="https://arunkumar.ind.in/assets/css/bookmark.css" />
-
-<section class="bkmrk">
 
 ### Tech
 - <a href="https://github.com/" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACqElEQVR4nGxTz0tUURQ+98ebN/5gZGa0CaE0e/4qJGijgS3aRxCtWuQialMUuAmUglbRogiyjKx/ICiKtkZhrQyKJCufxugkKpaTk1Tqm3vu9dw3IzMMXmbgvPPO953vfPc8CYXD6G9s0OR1HBHCOccBjlFiN6UZA7akgb3WWj2am/k6DmWHlcVOS0fXTUpcYJxHwRj6mZCUMcvBwGizTqmhtP95gNJ6m4CaeQSOPpXSOa415Qu4Mv7SMxcclMo/S09NnqYECvu2pb3xdiQS6VNKvUKDV6ldPWesQRu9RNAcCXBIzzgqHCDy6kjEPRGL17ur2Z+jrNnr7BFSjgnpCJUPHqb9yYtEKtvaDqWC4E/W9kXXTcz7/gqFQUt71x3pOJcQ85sqj72SC3GeZo4YjVawoiKrCqenJxbK/FksziPICUVjCsZ4Nef6LCmFo9YtTQZt5NV9Cy4Wsx3MRgX5YdD412JotF5ugDWGFoP5tZCemi0W6jLntl0MnzO+/4OCRYsg3D5u2U3B9ppEwquq6Fx5WCqVilJxzITrAcKOkLF4kpOsTTrdxU5yhxFszrh1yR4C7SruSIYD6nfAQyH/HCkfN7W2dkLBzMoR1F7vwEFHiKGQkViI4y1r8joPSyk/aGPuUm4P3cpJrfGFRn19dvrLhC0OgY68QoBTVFNjyazviNjNM9+/fTQGH0ghLgdBcEOjukX9av9vqrVS+2CDZuizYBK+Tk2kAX2PvotPVjtPY9BP9zjmRt0ntH3vKR5czvjbNwLzSi2QwmUbCyGqUKmXabU5aLFlRjVH97fHRrjkZ0g+ZDfW4rm5uZx9k/C8WFxW0UpzpPFGaFv7KR2EhCWXc2o1u/y8rr7hDbmzsoTBKORy1kxY/52AeNJxUZlrszOTw1BaNtgCAAD//2yGulAAAAAGSURBVAMAJsVHc9JrNmMAAAAASUVORK5CYII=">GitHub</a>
@@ -98,7 +95,3 @@ title: Bookmarks - Tech
 - <a href="https://www.youtube.com/watch?v=Rz1turGsGow">Atom animated--nucleus &amp; electron orbitals (electron cloud). - YouTube</a>
 - <a href="https://www.youtube.com/user/EugeneKhutoryansky/videos" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABCElEQVQ4ja2TMU4DMRBF38wiEFIqKFYIUSAtJ8kNcoood8jJopwgRyANNCg1aSJl/Sls73rdoBC+NLI982c8/raNAgIHLC2NKZRHg1BHavKvyDlWOGbAG9ACT8RuSgTgCzgA7wbHstpC8Ck4CSSQzDTMp3ZK3EVOvhN8pGAvCILzYGbnYh0SRynn1oEX4JGpME7bOmaO5Lh7daQAPADPDtwnLSKhaaI2q5Wx2RhdZ4RgTIXOBWde7WyYRWLfw3wOux2s12PhaaFQK30xbqqzCSnu1DSw3cJyCfv9GI+Wu3AEneCY1M23ENS2QWZx7h4G/8j7FrxefY25rz8/pH97ytd/puS8+Dv/AFRGv3m23DwSAAAAAElFTkSuQmCC">Physics Videos by Eugene Khutoryansky - YouTube</a>
 - <a href="https://www.youtube.com/c/pbsspacetime/videos" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABCElEQVQ4ja2TMU4DMRBF38wiEFIqKFYIUSAtJ8kNcoood8jJopwgRyANNCg1aSJl/Sls73rdoBC+NLI982c8/raNAgIHLC2NKZRHg1BHavKvyDlWOGbAG9ACT8RuSgTgCzgA7wbHstpC8Ck4CSSQzDTMp3ZK3EVOvhN8pGAvCILzYGbnYh0SRynn1oEX4JGpME7bOmaO5Lh7daQAPADPDtwnLSKhaaI2q5Wx2RhdZ4RgTIXOBWde7WyYRWLfw3wOux2s12PhaaFQK30xbqqzCSnu1DSw3cJyCfv9GI+Wu3AEneCY1M23ENS2QWZx7h4G/8j7FrxefY25rz8/pH97ytd/puS8+Dv/AFRGv3m23DwSAAAAAElFTkSuQmCC">PBS Space Time - YouTube</a>
-
-</section>
-
-<script type="text/javascript" src="https://arunkumar.ind.in/assets/js/bookmark.js"></script>

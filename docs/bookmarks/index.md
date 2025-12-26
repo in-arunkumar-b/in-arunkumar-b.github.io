@@ -1,4 +1,5 @@
 ---
+layout: bookmarks
 title: Bookmarks
 ---
 
