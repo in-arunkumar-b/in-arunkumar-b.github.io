@@ -4,4 +4,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <title>{{ page.title | default: site.title }}</title>
+    <style type="text/css">
+        .base-nav-list
+        {
+            list-style-type: none;
+            margin-block-start: 0em;
+            margin-block-end: 0em;
+            padding-inline-start: 0px;
+        }
+
+            .base-nav-list li
+            {
+                float: left;
+            }
+
+        .nav-bar
+        {
+            overflow: hidden;
+        }
+
+            .nav-bar a
+            {
+                float: left;
+                display: block;
+                text-align: left;
+                padding: 14px 16px;
+                margin: 2px;
+            }
+    </style>
 </head>

@@ -3,6 +3,10 @@ layout: base
 ---
 <link rel="stylesheet" href="https://arunkumar.ind.in/assets/css/bookmark.css" />
 <div>
+    <div class="nav-bar">
+        <a href="{{ '/bookmarks' | relative_url }}">Bookmarks</a>
+        <a href="{{ '/bookmarks/github' | relative_url }}">Bookmarks - GitHub</a>
+    </div>
     <section class="bkmrk">
         {{ content }}
     </section>
