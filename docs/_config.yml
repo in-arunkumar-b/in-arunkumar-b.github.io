@@ -1,8 +1,0 @@
-title: Arunkumar
-theme: minima
-
-header_pages:
-  - about.md
-  - bookmarks/index.md
-  - demo/animals.html
-  - demo/tech.html
