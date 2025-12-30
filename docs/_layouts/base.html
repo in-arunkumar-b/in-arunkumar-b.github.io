@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <style type="text/css">
+        .base-nav-list
+        {
+            list-style-type: none;
+            margin-block-start: 0em;
+            margin-block-end: 0em;
+            padding-inline-start: 0px;
+        }
+            .base-nav-list li
+            {
+                float: left;
+                display: block;
+                text-align: left;
+                padding: 6px 8px;
+                margin: 2px;
+                background-color: #0090ff;
+            }
+                .base-nav-list li a
+                {
+                    color: #fff;
+                }
+    </style>
+
+    <title>{{ page.title | default: site.title }}</title>
+</head>
+<body>
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+            <h1 id="project_title">{{ site.title }}</h1>
+            <h2 id="project_tagline">{{ site.description }}</h2>
+            <section class="base-nav-list" style="float: right;">
+                <ul>
+                    <li>
+                        <a href="{{ '/' | relative_url }}">Home</a>
+                    </li>
+                    <li>
+                        <a href="{{ '/bookmarks/' | relative_url }}">Bookmarks</a>
+                    </li>
+                </ul>
+            </section>
+        </header>
+    </div>
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+        <section id="main_content" class="inner">
+            {{ content }}
+        </section>
+    </div>
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+        <footer class="inner">
+            <p class="copyright">LinkedIn: <a href="https://www.linkedin.com/in/arunkumar-balasubramani/" target="_blank" rel="noopener noreferrer">Profile</a></p>
+        </footer>
+    </div>
+</body>
+</html>
